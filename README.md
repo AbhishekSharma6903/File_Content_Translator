@@ -28,5 +28,4 @@ Using Python, Translate the content of a file into your preferable language !
   *Language selection Code List
   
   
-  -------------------------------- T H A N K ---------- Y O U -----------------------------------------------------------------------
 Please Consider a Follow If you find the HelpFul ! ..... **Abhishek Sharma
