@@ -2,7 +2,7 @@
 Using Python, Translate the content of a file into your preferable language !
 
 ### Python Module Used : translate PyPi
-{Translate is a simple but powerful translation tool written in python with with support for multiple translation providers}
+-Translate is a simple but powerful translation tool written in python with with support for multiple translation providers 
 
 ### INSTALLATION :
 ![image](https://github.com/AbhishekSharma6903/File_Content_Translator/assets/99632495/d7a1b23c-f01c-4ec3-838f-a9ef7b93da67)
@@ -26,6 +26,8 @@ Using Python, Translate the content of a file into your preferable language !
   *Module Documentation 
   *Language translator Info
   *Language selection Code List
+
+  ## Happy Hacking .... ABHISHEK SHARMA
   
   
 # Please Consider a Follow If you find this helpFul ! .....  Abhishek Sharma :)
