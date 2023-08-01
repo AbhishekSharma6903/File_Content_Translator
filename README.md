@@ -23,10 +23,11 @@ Using Python, Translate the content of a file into your preferable language !
 
 ## NOTE :
 --All the Important Links have been Provided for :
+  ```
   *Module Documentation 
   *Language translator Info
   *Language selection Code List
-
+```
   ## Happy Hacking .... ABHISHEK SHARMA
   
   
